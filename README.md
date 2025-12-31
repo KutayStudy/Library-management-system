@@ -3,7 +3,7 @@
 This is a command-based library management system written in Java.
 It reads **items**, **users**, and **commands** from text files, processes operations like **borrow/return/pay**, and writes all results to an output file.
 
-I built this project mainly to practice **OOP design** (abstraction, inheritance, polymorphism), file parsing, and rule-based command execution.
+I built this project mainly to practice **OOP design** (abstraction, inheritance, encapsulation, polymorphism), file parsing, and rule-based command execution.
 
 ---
 
